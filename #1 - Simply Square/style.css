@@ -1,0 +1,14 @@
+body {
+    margin: 0 auto;
+}
+
+.background {
+   	background: #5d3a3a;
+    height: 100vw;
+}
+
+.background > div {
+    width: 200px;
+    height: 200px;
+    background: #b5e0ba;
+}
